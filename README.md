@@ -29,16 +29,9 @@ class TestCalculator < Minitest::Test
 
   # Write test methods for subtract, multiply, and divide
 
-
-
-
-
   def teardown
     puts "tear down"
   end
-
-
-
 end
 ```
 
